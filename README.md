@@ -1,2 +1,3 @@
 # trritcollege-demo
-Git and Github training
+This repo learning procedure for Git and Github traning
+Author: Murthy
